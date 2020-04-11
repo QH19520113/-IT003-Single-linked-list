@@ -1,0 +1,2 @@
+C:\Users\ACER\source\repos\Test\Debug\Test.exe
+C:\Users\ACER\source\repos\Test\Debug\Test.pdb
